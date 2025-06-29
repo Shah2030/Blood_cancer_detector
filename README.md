@@ -15,6 +15,19 @@ A lightweight Android application for detecting blood cancer using a deep learni
 
 ---
 
+## 🖼️ Screenshots
+
+<p float="left">
+  <img src="screenshots/home_screen.png" width="250"/>
+  <img src="screenshots/image_selected.png" width="250"/>
+  <img src="screenshots/result_displayed.png" width="250"/>
+  <img src="screenshots/pdf_generated.png" width="250"/>
+</p>
+
+> Make sure to create a `screenshots/` folder in your repo and place your images there.
+
+---
+
 ## 🧠 Model Info
 
 - Framework: **AutoKeras**
