@@ -18,15 +18,13 @@ A lightweight Android application for detecting blood cancer using a deep learni
 ## 🖼️ Screenshots
 
 <p float="left">
-  <img src="screenshots/one.png" width="250"/>
+  <img src="screenshots/home.png" width="250"/>
   <img src="screenshots/two.png" width="250"/>
   <img src="screenshots/three.png" width="250"/>
   <img src="screenshots/four.png" width="250"/>
   <img src="screenshots/five.png" width="250"/>
   <img src="screenshots/six.png" width="250"/>
 </p>
-
-> Make sure to create a `screenshots/` folder in your repo and place your images there.
 
 ---
 
